@@ -1,0 +1,11 @@
+{
+  "name": "feedr",
+  "version": "1.0.0",
+  "description": "Assignment 2",
+  "main": "index.html",
+  "scripts": {
+    "test": "feedr"
+  },
+  "author": "",
+  "license": "ISC"
+}
